@@ -9,7 +9,8 @@ body {
   overflow: hidden;
   background-image: url("./Images/background.jpg");
   background-repeat: no-repeat;
-  background-size: 1600px 730px;
+  /* background-size: 1600px 730px; */
+  background-size: 100%;
 }
 
 .scene,
